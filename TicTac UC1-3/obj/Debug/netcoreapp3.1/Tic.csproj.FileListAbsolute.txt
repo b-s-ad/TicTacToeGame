@@ -1,0 +1,27 @@
+C:\Users\Userr\source\repos\Tic\bin\Debug\netcoreapp3.1\Tic.exe
+C:\Users\Userr\source\repos\Tic\bin\Debug\netcoreapp3.1\Tic.deps.json
+C:\Users\Userr\source\repos\Tic\bin\Debug\netcoreapp3.1\Tic.runtimeconfig.json
+C:\Users\Userr\source\repos\Tic\bin\Debug\netcoreapp3.1\Tic.runtimeconfig.dev.json
+C:\Users\Userr\source\repos\Tic\bin\Debug\netcoreapp3.1\Tic.dll
+C:\Users\Userr\source\repos\Tic\bin\Debug\netcoreapp3.1\Tic.pdb
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.csproj.AssemblyReference.cache
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.AssemblyInfoInputs.cache
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.AssemblyInfo.cs
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.csproj.CoreCompileInputs.cache
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.dll
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.pdb
+C:\Users\Userr\source\repos\Tic\obj\Debug\netcoreapp3.1\Tic.genruntimeconfig.cache
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\bin\Debug\netcoreapp3.1\Tic.exe
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\bin\Debug\netcoreapp3.1\Tic.deps.json
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\bin\Debug\netcoreapp3.1\Tic.runtimeconfig.json
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\bin\Debug\netcoreapp3.1\Tic.runtimeconfig.dev.json
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\bin\Debug\netcoreapp3.1\Tic.dll
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\bin\Debug\netcoreapp3.1\Tic.pdb
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.AssemblyInfoInputs.cache
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.AssemblyInfo.cs
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.csproj.CoreCompileInputs.cache
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.dll
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.pdb
+C:\Users\Userr\Desktop\bash\TicTac UC1-3\obj\Debug\netcoreapp3.1\Tic.genruntimeconfig.cache
